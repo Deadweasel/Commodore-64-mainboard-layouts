@@ -18,3 +18,5 @@ This project only really gained a sense of direction, thanks to the [Commodore R
 These images were developed in Affinity Designer 1, but while that source will be available, I'll also be exporting a compatible PSD file as well, for those Photoshop fans among us.
 Please note that the font "Arial Rounded MT" is used throughout the layouts, so you will need to have that installed for compatibility, if you intend to make further edits to the sources.
 Otherwise, if you're just after digital layouts, grab the SVG exports.  They'll open in (almost) any browser or image editing application, and they have been exported with text having been converted to curves (fonts aren't a consideration with these SVG files).
+
+UPDATE: Turns out PSD exports are pretty dang big, so I'm working on a way to get those uploaded without complaint.
